@@ -1,0 +1,14 @@
+<?xml version="1.0"?>
+
+<registration>
+
+	<tool
+			id="e3.homepage"
+			title="Home"
+			description="Home"
+			dispatcher="E3"
+			e3Code="homepage">
+
+	</tool>
+
+</registration>
